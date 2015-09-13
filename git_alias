@@ -1,0 +1,6 @@
+# git log - graph
+# git log --all --graph --decorate --oneline --simplify-by-decoration
+
+# git config --global alias.r 'config --global alias.last 'log -l HEAD'
+
+# git r  
